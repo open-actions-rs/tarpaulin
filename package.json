@@ -15,20 +15,20 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/actions-rs/tarpaulin.git"
+        "url": "git+https://github.com/open-actions-rs/tarpaulin.git"
     },
     "keywords": [
         "actions",
         "rust",
         "tarpaulin"
     ],
-    "author": "actions-rs",
+    "author": "open-actions-rs",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/actions-rs/tarpaulin/issues"
+        "url": "https://github.com/open-actions-rs/tarpaulin/issues"
     },
     "dependencies": {
-        "@actions-rs/core": "0.1.5",
+        "@open-actions-rs/core": "0.1.10",
         "@actions/core": "^1.2.6",
         "@actions/exec": "^1.0.4",
         "@actions/io": "^1.0.2",

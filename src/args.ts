@@ -1,4 +1,4 @@
-import { input } from '@actions-rs/core';
+import { input } from '@open-actions-rs/core';
 import { OutputType } from './config';
 
 export interface ActionInputs {
