@@ -3,7 +3,7 @@ const os = require('os');
 import * as toolCache from '@actions/tool-cache';
 import * as core from '@actions/core';
 import * as io from '@actions/io';
-import * as rustCore from '@actions-rs/core';
+import * as rustCore from '@open-actions-rs/core';
 
 import getActionInputs from './args';
 import resolveConfig from './config';

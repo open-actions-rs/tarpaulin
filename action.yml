@@ -1,6 +1,6 @@
 name: 'rust-tarpaulin'
 description: 'Gather Rust code coverage information with Tarpaulin'
-author: 'actions-rs team'
+author: 'open-actions-rs team'
 branding:
   icon: play-circle
   color: black
